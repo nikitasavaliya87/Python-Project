@@ -26,10 +26,9 @@ This code provides a fun implementation of the Pong game that can be a great sta
 Enjoy playing and learning with the Pong Game!
 
 ## Screenshort
+![Screenshot 2023-11-10 182713](https://github.com/nikitasavaliya87/Python-Project/assets/144912665/b26ac532-ea30-4ac7-9e79-257d938eefb5)
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Demo
