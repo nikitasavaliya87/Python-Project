@@ -25,12 +25,5 @@ This code provides a simple yet enjoyable game that offers an opportunity to lea
 
 Have fun playing and improving your Turtle Crossing skills!
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Demo
-
-Insert gif or link to demo
 
