@@ -26,19 +26,8 @@ This code provides an engaging way to learn about U.S. states' names and locatio
 
 Enjoy playing and learning with the U.S. States Game!
 
-<!-- Add any additional information, credits, or acknowledgments here. -->
-
-
-
-
-
 
 ## Screenshots
+![us](https://github.com/nikitasavaliya87/Python-Project/assets/144912665/dee67c6d-ab4e-4ca8-a9b3-d37f697bc146)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Demo
-
-Insert gif or link to demo
 
