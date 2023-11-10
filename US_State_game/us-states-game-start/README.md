@@ -28,6 +28,6 @@ Enjoy playing and learning with the U.S. States Game!
 
 
 ## Screenshots
-![us](https://github.com/nikitasavaliya87/Python-Project/assets/144912665/dee67c6d-ab4e-4ca8-a9b3-d37f697bc146)
 
+![us](https://github.com/nikitasavaliya87/Python-Project/assets/144912665/742d9521-9b91-48fe-b770-8f7ed9b00033)
 
