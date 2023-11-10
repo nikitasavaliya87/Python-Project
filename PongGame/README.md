@@ -31,7 +31,5 @@ Enjoy playing and learning with the Pong Game!
 
 
 
-## Demo
 
-Insert gif or link to demo
 
