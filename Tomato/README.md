@@ -35,10 +35,5 @@ Enjoy enhanced productivity with the Pomodoro Timer!
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Demo
-
-Insert gif or link to demo
+![Screenshot 2023-11-10 183948](https://github.com/nikitasavaliya87/Python-Project/assets/144912665/fa353336-77e0-4736-be77-97d21e3ce66c)
 
