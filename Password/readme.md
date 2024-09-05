@@ -10,3 +10,8 @@ A simple GUI-based password manager built using Python's `tkinter` module. This 
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/52117af6-15b8-40e3-8375-a59f8ced3f34)
+
+
+
+https://github.com/user-attachments/assets/d349da08-46e9-4b2a-a62f-1493024e4bea
+
