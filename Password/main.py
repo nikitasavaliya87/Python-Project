@@ -37,6 +37,7 @@ def save():
             with open("data.txt","a") as data_file:
                 data_file.write(f"{web} | {email} | {pswd}\n")
                 l1_entry.delete(0,END)
+                email_entry.insert(0,"xyz@abc.com")
                 pswd_entry.delete(0,END)
 
         
@@ -70,8 +71,8 @@ l1_entry.focus()
 email_entry=Entry(width=35)
 email_entry.grid(row=2, column=1,columnspan=2)
 email_entry.insert(0,"xyz@abc.com") 
-pswd_entry=Entry(width=21)
-pswd_entry.grid(row=3,column=1)
+pswd_entry=Entry(width=35)
+pswd_entry.grid(row=3,column=1,columnspan=2)
 
 #Button
 g_pswd_button=Button(text="Generate Password",command=generate_pswd)
