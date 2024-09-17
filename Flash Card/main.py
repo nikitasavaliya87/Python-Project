@@ -1,4 +1,5 @@
 from tkinter import *
+import pandas
 
 print('Flash Card Application')
 BACKGROUND_COLOR = "#B1DDC6"
@@ -8,15 +9,16 @@ E_FONT = ("Arial", 60, "bold")
 #my_image = PhotoImage(file="..//image_file.png")
 #button = Button(image=my_image, highlightthickness=0)
 
+# Reading the data for the words file
 window=Tk()
 window.title("Flash Card Application")
 window.config(background=BACKGROUND_COLOR, padx=50, pady=50)
 
 canavas=Canvas(height=526,width=800,background=BACKGROUND_COLOR)
-f_image=PhotoImage("../images/card_front.png")
-b_image=PhotoImage(file="../card_back.png")
-#f_image=PhotoImage(file="Flash Card/images/card_front.png")
-canavas.create_image(403,263,image=b_image)
+#f_image=PhotoImage("../images/card_front.png")
+#b_image=PhotoImage(file="..//card_back.png")
+f_image=PhotoImage(file="..//images//card_front.png")
+canavas.create_image(403,263,image=f_image)
 canavas.create_text(400,158,text="Title",font=A_FONT)
 canavas.create_text(400,263,text="word", font=E_FONT)
 
